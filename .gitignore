@@ -1,0 +1,9 @@
+.tmp.drivedownload/
+.tmp.driveupload/
+*.exe
+*.o
+*.class
+__pycache__/
+.idea/
+*.pyc
+.vscode/
