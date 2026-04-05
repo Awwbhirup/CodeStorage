@@ -1,0 +1,13 @@
+
+Array methods — map, filter, reduce
+
+Spread and rest syntax
+Modules — import/export
+Promises
+async/await
+Fetch API
+
+
+done-
+Arrow functions
+Destructuring (arrays + objects)
