@@ -1,6 +1,6 @@
 
 Array methods — map, filter, reduce
-
+Destructuring (arrays + objects)
 Spread and rest syntax
 Modules — import/export
 Promises
@@ -10,4 +10,3 @@ Fetch API
 
 done-
 Arrow functions
-Destructuring (arrays + objects)
